@@ -1,6 +1,6 @@
 This README.md file provides a step-by-step guide on how to create a Python application, connect it to MySQL, build a Docker image, push it to Amazon Elastic Container Registry (ECR), and run the application on Amazon Elastic Container Service (ECS).
 
-##Prerequisites
+#Prerequisites
 
 #Before you begin, ensure you have the following prerequisites:
 
@@ -11,7 +11,7 @@ MySQL database (either hosted on AWS RDS or locally)
 AWS CLI installed and configured with proper permissions
 Git installed (for version control)
 
-##Steps
+#Steps
 1. Create a Python Application
 Start by creating your Python application. You can use a framework like Flask or Django, or a simple script depending on your requirements. Ensure your application works locally before proceeding.
 
