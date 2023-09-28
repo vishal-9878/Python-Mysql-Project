@@ -1,0 +1,23 @@
+/* Apply styles to the <header> element */
+header {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    padding: 20px; /* Padding around the header content */
+    text-align: center; /* Center-align text */
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style-type: none; /* Remove list bullets */
+    padding: 0;
+}
+
+nav li {
+    display: inline; /* Display menu items horizontally */
+    margin-right: 20px; /* Space between menu items */
+}
+
+nav a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Link text color */
+}
