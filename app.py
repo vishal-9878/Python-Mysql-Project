@@ -7,9 +7,9 @@ app.secret_key = 'your_secret_key'  # Replace with a strong secret key
 # MySQL Configuration
 db = mysql.connector.connect(
     host='localhost',
-    user='root',
-    password='Mysql#2023',
-    database='mynew'
+    user='Your_db_user',
+    password='Your_db_password',
+    database='Your_db_name'
 )
 cursor = db.cursor()
 
